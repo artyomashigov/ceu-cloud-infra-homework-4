@@ -1,6 +1,8 @@
 # ceu-cloud-infra-homework-4
 
-My student id: Artyom Ashigov
+Cloud infrastructure homework using AWS S3 as a simple data lake.
 
-My S3 Bucket: ceu-artyom-wikidata
-s3://ceu-artyom-wikidata/datalake/
+## Resources
+
+- S3 bucket: `ceu-artyom-wikidata`
+- Data lake path: `s3://ceu-artyom-wikidata/datalake/`
